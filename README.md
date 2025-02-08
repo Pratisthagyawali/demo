@@ -1,5 +1,4 @@
 # demo
 This is my first repository
 <br>
-Pratistha Gyawali 
-hello
+Pratistha Gyawali
